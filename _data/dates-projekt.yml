@@ -1,3 +1,9 @@
+week-0:
+  day-1:
+    datum: 2020-10-29
+    start: "09:00"
+    end: "17:00"
+    name: Donnerstag
 week-1:
   day-1:
     datum: 2020-11-04

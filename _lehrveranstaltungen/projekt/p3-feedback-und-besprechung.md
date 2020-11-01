@@ -6,7 +6,7 @@ typ: projekt
 pflicht: false
 termine: 2020-11-18 14:30, 2020-11-25 14:30, 2020-12-09 14:30, 2020-12-16 14:30, 2021-01-20 14:30, 2021-01-27 14:30, 2021-02-03 14:30
 empfohlene-voraussetzungen: 
-published: true
+published: false
 dauer: 60
 raum: https://th-koeln.zoom.us/my/cnoss (Zugangscode im Ilias)
 info: 

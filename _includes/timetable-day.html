@@ -16,7 +16,7 @@
 {% assign overlap-9 = 0 %}
 
 <!--div class="column"-->
-	<h3 class="datum is-3 title">{{day.name}}, {{day.datum | date: '%d. %B %Y'  | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
+	<h3 class="datum is-3 title">{{day.name}}, {{day.datum | date: '%d. %B %Y'  | replace:"January","Januar" | replace:"February","Februar" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli" | replace:"December","Dezember" | replace:"October","Oktober" }}</h3>
 
 	<script>
 		//dataObject = {}
@@ -91,7 +91,7 @@
 								{% include /functions/resolve-names.html verantwortlich=verantwortlich %}
 								<p class="title"><span class="is-hidden-tablet">{{termin | date: '%d. %B %Y, %H:%M Uhr'}}: </span>{{veranstaltung.titel}}</p>
 								<script>
-									cal.addEvent("{{veranstaltung.titel}}","Web-Technologien", "{{veranstaltung.raum}}", "{{termin}}", "{{termin}}");
+									cal.addEvent("{{veranstaltung.titel}}","Vision-und-Konzept", "{{veranstaltung.raum}}", "{{termin}}", "{{termin}}");
 								</script>
 
 								{% if (veranstaltung.raum | append: "") != "" %}
