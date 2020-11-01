@@ -1,0 +1,28 @@
+{% assign resources = site.resources %}
+
+<div class="news-box">
+  <h2 class="is-underlined">Ressourcen - Artikel, Videos, Tools, Downloads</h2>
+  <div class="columns is-multiline">
+    {% for resource in resources %}
+    <div class="column is-one-third-tablet is-one-quarter-desktop">
+      <a href="{{resource.targetUrl}}">
+      <div class="card bm--card-equal-height">
+        <div class="card-image">
+          <figure class="image is-16by9">
+            <img src="{{ resource.picture | prepend: resource.url | prepend: site.baseurl }}">
+          </figure>
+        </div>
+        <div class="card-content">
+          <div class="content">
+            <h3>{{resource.titel}}</h3>
+            <dl>
+              <dd>{{resource.target-url}}</dd>
+              <dd>{{resource.type}}</dd>
+            </dt>
+          </div>
+        </div>
+      </div>
+    </div></a>
+    {% endfor %}
+  </div>
+</div>
