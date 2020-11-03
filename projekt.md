@@ -1,6 +1,6 @@
 ---
 layout: page
-titel: Projekte 1, 2 & 3
+titel: Vergangene Projekte aus den Modulen 1, 2 & 3 (WIP Work in Progress)
 ---
 
 Im [Medieninformatik Master](https://www.medieninformatik.th-koeln.de/study/master/) der TH Köln steht jedes der ersten drei Fachsemester unter einer übergreifenden Leitfrage. Diese Fragen sind am groben Ablauf der Produktentwicklung ausgerichtet: “Vision & Konzept”, “Entwicklung” und “Assessment/Evaluation, Forschung und Verwertung”. Jedes der ersten drei Fachsemester hat ein dezidiertes Projekt, das auf die jeweilige Leitfrage ausgerichtet ist. Der Grundgedanke ist, dass in jedem Semester nur die Phase der entsprechenden Leitfrage durchlaufen und so abgeschlossen als auch aufbereitet wird, das im nächsten Semester, oder zu einem späteren Zeitpunkt, ein anderes Team auf den Ergebnissen aufsetzen kann. Damit ergeben sich folgende Vorteile:

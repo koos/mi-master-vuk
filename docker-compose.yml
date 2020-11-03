@@ -2,7 +2,7 @@ version: "3.8"
 services: 
   webserver:
     image: jekyll/jekyll
-    command: jekyll serve
+    command: jekyll s --force_polling -H 0.0.0.0 -P 4000 --livereload
     ports:
       - "4000:4000"
     volumes:
