@@ -1,10 +1,10 @@
 ---
-titel: Vision und Konzept // Design Sprint // Kick-Off
+titel: Vision und Konzept // Design Sprint
 kuerzel: vuk
 verantwortlich: jk
 typ: projekt
 pflicht: false
-termine: 2020-11-25 11:00, 2020-12-09 11:00, 2020-12-16 11:00, 2021-01-06 11:00
+termine: 2020-12-09 11:00, 2020-12-16 11:00, 2021-01-06 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 120
