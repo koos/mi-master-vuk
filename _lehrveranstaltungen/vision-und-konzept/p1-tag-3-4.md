@@ -4,7 +4,7 @@ kuerzel: vuk
 verantwortlich: jk
 typ: projekt
 pflicht: false
-termine: 2021-01-20 11:00, 2021-01-27 11:00, 2021-02-03 11:00
+termine: 2021-01-27 11:00, 2021-02-03 11:00
 empfohlene-voraussetzungen: 
 published: true
 dauer: 420
