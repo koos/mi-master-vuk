@@ -28,14 +28,16 @@ Zugangscode ist im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_165817
 
 * Kurze Intro zweiten Sprinttag
 	* 11:00 Uhr - Begrüßung und Intro (Bitte mit **[SCHWERPUNKT]_Name** einloggen)
+	* Mini-Feedback-Session: wie gefällt es euch?
 	* Aufteilung in Breakoutrooms
-* 11:15 Uhr - Start Gruppenarbeit, Concept Voting, [DESIGN SPRINT 2.0 - USER TESTING - AJ&Smart](https://www.youtube.com/watch?v=8AKWYH1EzJI)
+* 11:15 Uhr - Start Gruppenarbeit, Concept Voting, Solution Presentation, Straw Poll Vote, Decider Vote, [DESIGN SPRINT 2.0 - USER TESTING - AJ&Smart](https://www.youtube.com/watch?v=8AKWYH1EzJI)
 * 12:30 Uhr - Pause
 * 13:30 Uhr - Checkin + User Test Flow + Storyboarding
 	* Ich Joine die Breakoutrooms
 * 15:45 Uhr - Pause
 * 16:00 Uhr - Gruppenarbeit - Storyboarding
-* 17:30 Uhr - Gemeinsamer Checkout des Tages, Resüme, Präsentation der Ergebnisse
+	* Ich Joine die Breakoutrooms
+* 17:30 Uhr - Gemeinsamer Checkout des Tages, Resüme, Präsentation der Ergebnisse - jede Gruppe zeigt kurz das Konzept und das Storyboard und erläutert kurz wie der Prototyp gebaut wird
 
 Grundsätzlich sollte ich den ganzen Tag ansprechbar sein, ggf. mit Verzögerung.
 
@@ -51,6 +53,12 @@ Grundsätzlich sollte ich den ganzen Tag ansprechbar sein, ggf. mit Verzögerung
 	* [Sprint: Monday](https://www.youtube.com/watch?v=7zOBMxRYJ7I&list=PLNKW8GAxivxcwqF2OU7UvjkT_lPMqz_C8)
 
 ![Day2](/mi-master-vuk/assets/images/DesignSprint/sprint2-4.png)
+![Day2](/mi-master-vuk/assets/images/DesignSprint/day2-1.jpg)
+![Day2](/mi-master-vuk/assets/images/DesignSprint/day2-2.jpg)
+![Day2](/mi-master-vuk/assets/images/DesignSprint/day2-3.jpg)
+![Day2](/mi-master-vuk/assets/images/DesignSprint/day2-4.jpg)
+![Day2](/mi-master-vuk/assets/images/DesignSprint/day2-5.jpg)
+![Day2](/mi-master-vuk/assets/images/DesignSprint/day2-6.jpg)
 
 ## Ergebnis der Session
 
