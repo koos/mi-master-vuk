@@ -1,6 +1,6 @@
 ---
 layout: page
-titel: Abgabe und Bewertung
+titel: Abgabe und Bewertung (nur Vision und Konzept)
 ---
 
 Im folgenden Dokument werden übliche Artefakte die das Ergebnis des Designs Sprints und des Moduls darstellen vorgestellt. Andere Formate sind natürlich auch möglich, sollten aber vorab mit dem jeweiligen Dozenten besprochen werden. **Die Bewertungskriterien werden noch im Laufe des Semesters verfeinert.**

@@ -1,6 +1,6 @@
 ---
 layout: home
-titel: Über das Modul
+titel: Über das Modul "Projektarbeit - Vision und Konzept im Kontext des Studienschwerpunkts"
 ---
 
 {% include functions/resolve-urls.html target="mi-wiki" %}

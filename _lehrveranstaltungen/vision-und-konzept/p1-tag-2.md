@@ -64,6 +64,7 @@ Grundsätzlich sollte ich den ganzen Tag ansprechbar sein, ggf. mit Verzögerung
 
 * Ein Storyboard das als Grundlage für den Prototypen Dient
 * Eine Entscheidung _wie_ der Prototyp realisiert werden soll und wie er getestet werden soll
+* Alles ist sauber in Github dokumentiert
 
 ## Bis zur nächsten Session
 
