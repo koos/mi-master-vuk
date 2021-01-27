@@ -32,10 +32,12 @@ Zugangscode ist im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_165817
 * 13:30 Uhr - Fortsetzung Gruppenarbeit Prototyping
 	* Ich Joine die Breakoutrooms
 * 15:45 Uhr - Pause
-* 16:00 Uhr - Gruppenarbeit Prototyping und Nutzerinterviews vorbereiten
-* 17:30 Uhr - Gemeinsamer Checkout des Tages, Resüme, Präsentation der Ergebnisse - jede Gruppe zeigt kurz ihren Prototypen und den Test-Leitfaden
+* 16:00 Uhr - Gruppenarbeit Prototyping (und Nutzerinterviews vorbereiten)
+* 17:30 Uhr - Gemeinsamer Checkout des Tages, Resüme, Präsentation der Ergebnisse - jede Gruppe zeigt kurz ihren Prototypen (und den Test-Leitfaden)
 
 Grundsätzlich sollte ich den ganzen Tag ansprechbar sein, ggf. mit Verzögerung.
+
+Bleibt beim Storyboard und Konzertiert euch auf die wichtigsten Screens. Nutzt Placeholders für alle anderen Screens. Es muss nichts fertig sein, sondern realistic. Delegiert die Arbeit gut. Teilt Euch die Arbeit gut auf!
 
 * Material
 	* Im [Sprint-Buch](https://www.thesprintbook.com/) Seiten 153 - 175
@@ -43,6 +45,27 @@ Grundsätzlich sollte ich den ganzen Tag ansprechbar sein, ggf. mit Verzögerung
 * Grundsätzlich:
 	* [Remote Design Sprints](https://www.youtube.com/playlist?list=PLxk9zj3EDi0VzC4BmYsOpxPBPeJh7ujEq)
 	* [Sprint: Monday](https://www.youtube.com/watch?v=7zOBMxRYJ7I&list=PLNKW8GAxivxcwqF2OU7UvjkT_lPMqz_C8)
+
+## Tools
+
+### Digital Tools
+
+* [https://www.sketch.com/](Sketch)
+* [https://www.figma.com/login](Figma)
+* [https://fontawesome.com/](Font Awesome)
+* [https://www.flaticon.com/](Flaticon)
+* [https://unsplash.com/](Unsplash)
+* [https://www.invisionapp.com](Invision)
+* [https://keynotopia.com/](Keynotopia)
+* [https://marvelapp.com/](Marvel)
+
+### "Non Digital Tools"
+
+* Video
+* Material
+* 3D Druck
+* reusing Stuff
+* ...
 
 ## Ergebnis der Session
 
