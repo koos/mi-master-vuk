@@ -62,3 +62,21 @@ week-9:
     start: "09:00"
     end: "17:00"
     name: Mittwoch
+week-10:
+  day-1:
+    datum: 2021-02-17
+    start: "10:00"
+    end: "11:00"
+    name: Mittwoch
+week-11:
+  day-1:
+    datum: 2021-03-03
+    start: "10:00"
+    end: "11:00"
+    name: Mittwoch
+week-12:
+  day-1:
+    datum: 2021-03-31
+    start: "10:00"
+    end: "11:00"
+    name: Mittwoch    

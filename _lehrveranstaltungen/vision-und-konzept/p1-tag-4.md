@@ -16,7 +16,7 @@ info:
 
 Zugangscode ist im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_1658174&client_id=ILIAS_FH_Koeln) hinterlegt.
 
-# Day 3 - User Interviews
+# Day 4 - User Interviews
 
 ## Vorbereitung
 
