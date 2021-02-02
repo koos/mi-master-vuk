@@ -29,8 +29,9 @@ Zugangscode ist im [Ilias](https://ilias.th-koeln.de/goto.php?target=fold_165817
 * 11:30 Uhr - Start Nutzerinterviwes und wenn nicht vorhanden: Organisation der Nutzerinterviews
 * 12:30 Uhr - Pause
 * 13:30 Uhr - Fortsetzung Nutzerinterviews ggf. weitere Vereinbarung von Nutzerinterviews
-* 15:45 Uhr - Pause
-* 16:00 Uhr - Gemeinsamer Checkout des Tages, Resüme, Präsentation der Tagesergebnisse - jede Gruppe zeigt kurz ihren Prototypen und erzählt über die Nutzerinteviews.
+* 14:30 Uhr - Pause
+* 15:30 Uhr - Gemeinsamer Checkout des Tages, Resüme, Präsentation der Tagesergebnisse - jede Gruppe zeigt kurz ihren Prototypen und erzählt über die Nutzerinteviews.
+* 16:00 Uhr - Ende
 
 Grundsätzlich sollte ich den ganzen Tag ansprechbar sein, ggf. mit Verzögerung. Nicht zwischen 11:30 - 13:30
 
