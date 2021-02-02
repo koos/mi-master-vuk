@@ -36,20 +36,20 @@ Im folgenden Dokument werden übliche Artefakte die das Ergebnis des Designs Spr
 
 #### Sehr gute Lösung
 
-- Ein Product-Backlog ist als Github-Project angelegt und strukturiert und priorisiert alle notwendigen User-Stories und Szenarien um den erarbeiteten Prototypen und das Konzept zu implementieren. Ein Entwickler kann mühelos mit der Implementierung dieses Backlogs beginnen.
+- Ein Produkt-Backlog ist als Github-Projekt angelegt und strukturiert und priorisiert alle notwendigen User-Stories und Szenarien um den erarbeiteten Prototypen und das Konzept zu implementieren. Ein Entwickler kann mühelos mit der Implementierung dieses Backlogs beginnen.
 - Das Product-Backlog wurde verständlich und durchgehend unter Verwendung von BDD (Behaviour Driven Development) ausgearbeitet. Die einzelnen Stories sind verständlich und detailliert genug ausgearbeitet.
 - Abgabe ist im Termin erfolgt
 
 #### Passable Lösung
 
-- Ein Product-Backlog ist angelegt und beinhaltet genügend Stories und Szenarien um den erarbeiteten Prototypen und das Konzept zu implementieren.
-- Das Product-Backlog wurde  nicht durchgehend unter Verwendung von BDD (Behaviour Driven Development) ausgearbeitet oder der Detailgrad dieser Stories ist nicht ausreichend um eine entsprechende Implementierung vorzunehmen. Dem Entwickler stellen sich Fragen.
+- Ein Produkt-Backlog ist angelegt und beinhaltet genügend Stories und Szenarien um den erarbeiteten Prototypen und das Konzept zu implementieren.
+- Das Produkt-Backlog wurde nicht durchgehend unter Verwendung von BDD (Behaviour Driven Development) ausgearbeitet oder der Detailgrad dieser Stories ist nicht ausreichend um eine entsprechende Implementierung vorzunehmen. Dem Entwickler stellen sich Fragen.
 - Abgabe ist im Termin erfolgt
 
 #### Nicht akzeptable Lösung
 
-- Ein Product-Backlog ist nur teilweise angelegt und enthält wenige oder keine Stories und Szenarien um den erarbeiteten Prototypen und das Konzept zu implementieren.
-- Das Product-Backlog wurde nicht unter Verwendung von BDD (Behaviour Driven Development) ausgearbeitet.
+- Ein Produkt-Backlog ist nur teilweise angelegt und enthält wenige oder keine Stories und Szenarien um den erarbeiteten Prototypen und das Konzept zu implementieren.
+- Das Produkt-Backlog wurde nicht unter Verwendung von BDD (Behaviour Driven Development) ausgearbeitet.
 - Abgabe ist nicht im Termin erfolgt
 
 ## Prototyp
@@ -78,13 +78,13 @@ Im folgenden Dokument werden übliche Artefakte die das Ergebnis des Designs Spr
 
 - Die Vortragszeit wurde eingehalten (15 Min.).
 - Inhalt und Struktur waren verständlich, die Dramaturgie vorhanden (Einstieg, Höhepunkt, Fazit) und die einzel dargestellten Teil-Aspekte der Arbeit werden als ein rundes Ergebnis vorgestellt (Vorgehen, Vision, Sprintfragen, Prototyp, Nutzertests, usw.).
-- Visualisierung: Die Präsentation ist ansprechend, klar und strukturiert aufbereitet. Es werden verschiedene Medien - ngesetzt und aussagekräftige Teilaspekte visualisiert.
-- Sprache: Die Präsentation wird deutlich und verständlich vorgetragen. Verständlich in Satzbau, Wortwahl und - usentechnik. Es wird eine entsprechende Fachsprache verwendet.
+- Visualisierung: Die Präsentation ist ansprechend, klar und strukturiert aufbereitet. Es werden verschiedene Medien eingesetzt und aussagekräftige Teilaspekte visualisiert.
+- Sprache: Die Präsentation wird deutlich und verständlich vorgetragen. Verständlich in Satzbau, Wortwahl und Pausentechnik. Es wird eine entsprechende Fachsprache verwendet.
 - Der Prototyp wird vorgestellt.
-- Es gibt einen Moderator/Präsentationsleiter. Er leitet durch die Präsentation und lässt entsprechend das ganze Team zu - rt kommen.
+- Es gibt einen Moderator/Präsentationsleiter. Er leitet durch die Präsentation und lässt entsprechend das ganze Team zu Wort kommen.
 - Der Vortrag regt zu Fragen an und der Präsentationsleiter moderiert die Fragerunde.
-- Gestig / Haltung und Auftreten: Das Publikum wurde angesprochen. Der Vortrag wurde nicht abgelesen und sicher - rgetragen.
-- Der Vortrag stellt für Entwickler eine entsprechende Herausforderung in Aussicht, sodass diese sich animiert fühlen an - esem Projekt mitzuarbeiten ("Pitch für die Entwickler")
+- Gestig / Haltung und Auftreten: Das Publikum wurde angesprochen. Der Vortrag wurde nicht abgelesen und sicher vorrgetragen.
+- Der Vortrag stellt für Entwickler eine entsprechende Herausforderung in Aussicht, sodass diese sich animiert fühlen an diesem Projekt mitzuarbeiten ("Pitch für die Entwickler")
 
 #### Passable Lösung
 

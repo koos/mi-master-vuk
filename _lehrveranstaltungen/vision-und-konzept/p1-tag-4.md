@@ -54,6 +54,39 @@ Grundsätzlich sollte ich den ganzen Tag ansprechbar sein, ggf. mit Verzögerung
 * Vollständige Dokumentation des Sprints
 * Backlog wurde angelegt (Google Projects)
 * Erste Tickets im Backlog
+* [Auseinandersetzung mit dem Konzept des Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+
+## BDD
+
+* [Behavior-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [The beginner's guide to BDD (behaviour-driven development)
+](https://inviqa.com/blog/bdd-guide)
+* [The beginner's guide to BDD (behaviour-driven development)
+](https://inviqa.com/blog/bdd-guide)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VS6EEUVZGLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+```
+Title: Returns and exchanges go to inventory.
+
+As a store owner,
+I want to add items back to inventory when they are returned or exchanged,
+so that I can track inventory.
+
+Scenario 1: Items returned for refund should be added to inventory.
+Given that a customer previously bought a black sweater from me
+and I have three black sweaters in inventory,
+when they return the black sweater for a refund,
+then I should have four black sweaters in inventory.
+
+Scenario 2: Exchanged items should be returned to inventory.
+Given that a customer previously bought a blue garment from me
+and I have two blue garments in inventory
+and three black garments in inventory,
+when they exchange the blue garment for a black garment,
+then I should have three blue garments in inventory
+and two black garments in inventory.
+```
 
 ## Nächste Termine:
 
